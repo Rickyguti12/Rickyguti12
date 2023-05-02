@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ricardo, an <a href="https://linkedin.com/in/Ricardo"></a></h1>
+<h1>Hi, I'm Ricardo, 
 
 <h2>👨‍ Information Technology Projects:</h2>
 
